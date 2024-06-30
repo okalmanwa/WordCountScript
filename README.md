@@ -1,5 +1,3 @@
-# CS 2043 – Assignment #5
-
 ## Project Description
 
 This repository contains the `wordCount.sh` script, a utility designed to analyze plain text files for word frequency. The script counts occurrences of all words in a file, identifying potential padding with repetitive sentences and extraneous words.
